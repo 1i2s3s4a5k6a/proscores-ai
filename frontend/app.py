@@ -1,7 +1,7 @@
 import streamlit as st
 import requests
 
-API = "API = "https://proscores-ai.onrender.com"
+API = "https://proscores-ai.onrender.com"
 
 st.set_page_config("ProScore AI", "⚽", "wide")
 
